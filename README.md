@@ -1,6 +1,6 @@
 # Biased Gradient Squared Descent Saddle Point Finding Method
 
-Biased Gradient Squared Descent (BGSD) is a saddle point finding method I created, implemented, and explored in graduate school.  I implemented BGSD within the Transition State Library for ASE (TSASE), a python package for atomic simulations.  This github page includes a demo of how to use BGSD and the results of this project. 
+Biased Gradient Squared Descent (BGSD) is a saddle point finding method I created, implemented, and explored.  I implemented BGSD within the Transition State Library for ASE (TSASE), a python package for atomic simulations.  This github page includes installation instructions for ASE and TSASE, the results of this project, and a demo of how to use BGSD. 
 
 ## Installation 
 
