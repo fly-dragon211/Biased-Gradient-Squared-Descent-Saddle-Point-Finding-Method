@@ -23,3 +23,12 @@ http://theory.cm.utexas.edu/tsase/download.html
 You can find documentation of how to use BGSD in TSASE here:
 
 http://theory.cm.utexas.edu/tsase/bgsd.html#bgsd
+
+## Results 
+
+The publication associated with this novel saddle point method is with the file BGSD_publication.pdf.
+
+## Demo  
+
+The script demo_bgsd.py is a short demo of how you can find a saddle point for an Aluminum Adatom on a (100) Surface with BGSD.  The low energy saddle points found and probabilities of finding various saddle points for this system can be found in Figures 6 and 8 of the BGSD publication. 
+
