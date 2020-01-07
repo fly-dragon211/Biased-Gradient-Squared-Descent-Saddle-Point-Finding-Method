@@ -26,7 +26,7 @@ http://theory.cm.utexas.edu/tsase/bgsd.html#bgsd
 
 ## Results 
 
-The publication associated with this novel saddle point method is with the file BGSD_publication.pdf.
+BGSD_publication.pdf is the publication associated with this project.
 
 ## Demo  
 
